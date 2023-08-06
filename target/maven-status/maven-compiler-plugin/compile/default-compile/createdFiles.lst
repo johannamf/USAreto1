@@ -1,0 +1,6 @@
+com/example/usareto1/Repository/UserRepository.class
+com/example/usareto1/Controller/UserController.class
+com/example/usareto1/UsAreto1Application.class
+com/example/usareto1/Model/User.class
+com/example/usareto1/Repository/CRUD/UserCRUDRepository.class
+com/example/usareto1/Service/UserService.class
