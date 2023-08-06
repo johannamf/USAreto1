@@ -13,9 +13,6 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>USAreto1</name>
     <description>USAreto1</description>
-    <properties>
-        <java.version>20</java.version>
-    </properties>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
