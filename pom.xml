@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>USAreto1</artifactId>
+    <artifactId>RetoModulo2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>USAreto1</name>
-    <description>USAreto1</description>
+    <name>RetoModulo2</name>
+    <description>RetoModulo2</description>
     <properties>
         <java.version>17</java.version>
     </properties>
@@ -63,7 +63,6 @@
             <version>0.47</version>
         </dependency>
     </dependencies>
-
     <build>
         <plugins>
             <plugin>
@@ -72,5 +71,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
